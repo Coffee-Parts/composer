@@ -1,0 +1,13 @@
+{
+    "name": "coffeeparts/composer",
+    "description": "Coffee Parts Composer Package",
+    "require": {
+        "php": "*"
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
